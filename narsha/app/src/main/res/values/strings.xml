@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WV_HEALTH</string>
+    <string name="button">Button</string>
+    <string name="recent_history">Recent History</string>
+    <string name="healthcaredevice">HealthCareDevice</string>
+    <string name="chon">chon</string>
+    <string name="hul">hul</string>
+    <string name="aram">aram</string>
+    <string name="calender">calender</string>
+    <string name="todo">main</string>
+    <string name="_2_1">+2/1</string>
+
+    <!-- BLE 붙이기 전용 Strings -->
+    <string name="ble_not_supported">BLE가 지원되지 않는 기기입니다</string>
+    <string name="label_data">데이터:</string>
+    <string name="label_device_address">디바이스 주소:</string>
+    <string name="label_state">상태:</string>
+    <string name="no_data">데이터 없음</string>
+    <string name="connected">연결되었습니다</string>
+    <string name="disconnected">연결이 끊겼습니다</string>
+    <string name="title_devices">기기 스캔</string>
+    <string name="error_bluetooth_not_supported">블루투스가 지원되지 않는 기기입니다</string>
+    <string name="unknown_device">Unknown_Device</string>
+    <string name="unknown_characteristic">알수없는 문자열입니다.</string>
+    <string name="unknown_service">Unknown_Service</string>
+    <string name="device_imformation_text">디바이스 정보</string>
+    <string name="current_time_text">현재 시각</string>
+    <string name="battery_text">배터리 정보</string>
+    <string name="device_name_text">장치 이름</string>
+    <string name="health_text">체온 정보</string>
+    <!-- Menu items -->
+    <string name="menu_connect">연결</string>
+    <string name="menu_disconnect">연결 끊기</string>
+    <string name="menu_scan">스캔</string>
+    <string name="menu_stop">중지</string>
+</resources>

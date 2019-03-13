@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            어서오세요!
+            
+        
+        ]]>
+    </string>
+</resources>
